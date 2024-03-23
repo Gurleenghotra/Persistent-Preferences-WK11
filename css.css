@@ -1,0 +1,32 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #521010;
+    color: #b373b9;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  #list-container {
+    flex-grow: 1;
+  }
+  
+  #item-list {
+    list-style-type: none;
+  }
+  
+  #preferences-panel {
+    width: 200px;
+    background-color: #b3abab;
+    padding: 20px;
+  }
+  
